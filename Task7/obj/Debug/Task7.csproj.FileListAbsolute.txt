@@ -1,0 +1,6 @@
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Multithreading\Task7\bin\Debug\Task7.exe.config
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Multithreading\Task7\bin\Debug\Task7.exe
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Multithreading\Task7\bin\Debug\Task7.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Multithreading\Task7\obj\Debug\Task7.exe
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Multithreading\Task7\obj\Debug\Task7.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\Multithreading\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
